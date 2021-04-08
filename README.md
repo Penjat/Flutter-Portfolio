@@ -1,16 +1,7 @@
 # flutter_portfolio
 
-A new Flutter application.
+A portfolio built in Flutter that showcases some sofetware and hardware projects I have worked on over the years.
 
-## Getting Started
+My old portfolio was made in HTML, CSS, and javascript.  It still works fine, but to update it I needed to copy, paste and edit HTML code every time. I work on a lot of different projects and it has proven to be a real pain to keep my portfolio updated. I wanted something where I can just type in the data and my portfolio will update itself.  I thought this would also be a great oppertunity to advance my skills in Flutter and in web development in general.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
