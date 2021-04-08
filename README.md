@@ -1,4 +1,4 @@
-# flutter_portfolio
+# Flutter Portfolio
 
 A portfolio built in Flutter that showcases some sofetware and hardware projects I have worked on over the years.
 
